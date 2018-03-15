@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\EdadLegal\EdadLegal\bin\Debug\EdadLegal.exe.config
+C:\Users\sergi\source\repos\EdadLegal\EdadLegal\bin\Debug\EdadLegal.exe
+C:\Users\sergi\source\repos\EdadLegal\EdadLegal\bin\Debug\EdadLegal.pdb
+C:\Users\sergi\source\repos\EdadLegal\EdadLegal\obj\Debug\EdadLegal.csprojResolveAssemblyReference.cache
+C:\Users\sergi\source\repos\EdadLegal\EdadLegal\obj\Debug\EdadLegal.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\EdadLegal\EdadLegal\obj\Debug\EdadLegal.exe
+C:\Users\sergi\source\repos\EdadLegal\EdadLegal\obj\Debug\EdadLegal.pdb
